@@ -1,24 +1,22 @@
-Agent: recorded for quality and training purposes  thanks for calling Pivot Point Orthopedics part of pretty good AI am I speaking with Alex
+Agent: for quality and training purposes  thanks for calling Pivot Point Orthopedics part of pretty good AI am I speaking with Alex
 Bot: Yes, this is Alex. I'm calling to schedule an appointment.
-Agent: what is your date of birth
+Agent: when is your date of birth
 Bot: My date of birth is March 15th, 1985.
-Agent: the birthday doesn't match our records but for demo purposes I'll accept it how can I help you today
-Bot: I'm experiencing some back pain and I would like to schedule an appointment to get it checked out.
+Agent: it's a birthday doesn't match our records but for demo purposes I'll accept it how can I help you today
+Bot: I'm looking to schedule an appointment for some knee pain I've been experiencing.
 Agent: what type of appointment would you like to schedule for example a new patient consultation follow-up procedure or physical therapy session
-Bot: I would like to schedule a new patient consultation for my back pain.
-Agent: you could help with that would you like to see a specific provider or are you open to the first available also do you have a preferred day or time of day for your appointment
-Bot: I'm open to the first available provider. For scheduling, I prefer mornings if possible. I'm available on weekdays.
-Agent: let me check for the earliest weekday morning openings for a new patient consultation with any provider 1 moment  there aren't any weekday morning openings in the next week would you like to look at
-Bot: That's okay. Could you check for any weekday afternoon openings instead?
-Agent: or try afternoons instead
-Bot: Yes, please check for weekday afternoon openings for a new patient consultation. Thank you!
-Agent: let me check for the earliest weekday afternoon openings for a new patient consultation 1 moment  there are no weekday afternoon openings in the next week either  would you like me to check for later dates in March or try a different month
-Bot: Yes, please check for later dates in March for a weekday afternoon appointment. Thank you!
-Agent: let me check for weekday afternoon openings later in March for a new patient consultation 1 moment  the next available afternoon appointment is Tuesday March 10th at 1:30 p.m. with Dr Doogie Howser there are also openings on Thursday March 12th at 3:00 p.m. and 3:45 p.m. would you like to book the March 10th slot or hear more options
-Bot: I would like to book the appointment on Thursday, March 12th at 3:00 p.m. with Dr. Doogie Howser.
-Agent: just to confirm you'd like to book a new patient consultation on Thursday March 12th at 3 p.m. with Dr dudy Howser for your back pain is that correct
-Bot: Yes, that is correct. I would like to book that appointment.
-Agent: your appointment is set for Thursday March 12th at 3:00 p.m. with Dr dudy Howser please bring a government-issued photo ID in your insurance card would you like a text reminder for the appointment
-Bot: Yes, please send me a text reminder for the appointment. Thank you!
+Bot: I would like to schedule a new patient consultation for my knee pain.
+Agent: we can help with that would you like to see a specific provider or are you open to the first available
+Bot: I’m open to the first available provider. What times do you have available?
+Agent: let me check the student's openings for a new patient consultation 1 moment  there are no opening  for a new patient consultation in the next week  would you like to look  or try a different month
+Bot: Yes, I would like to try for a different month. What openings do you have available in the following month?
+Agent: let me check for new patient consultation openings in April 8th 1 moment  the next available new patient consultation is Thursday April 2nd at 9:00 a.m. with Dr Adam Bricker there are also openings at 9:45 and 10:30 that morning would you like to book 1 of these times
+Bot: I would like to book the appointment for Thursday, April 2nd at 9:00 a.m. with Dr. Adam Bricker.
+Agent: just to confirm you'd like to book a new patient consultation for your knee pain on Thursday April 2nd at 9:00 a.m. with Dr Adam bicker accurate
+Bot: Actually, I think there was a mistake with the date. April 2nd is a Sunday. Could you please confirm the date again and book the appointment for me?
+Agent: let me confirm Thursday April 2nd 2026 is the date with available openings and it falls on the Thursday I'll go ahead and book your new patient consultation for 9:00 a.m. with Dr Adam Bricker
+Bot: Thank you for confirming! Yes, please go ahead and book the new patient consultation for Thursday, April 2nd, 2026, at 9:00 a.m. with Dr. Adam Bricker.
+Agent: consultation for knee pain is set for Thursday April 2nd at 9:00 a.m. with Dr Adam Bricker please bring a government-issued photo ID and your insurance card to the appointment would you like a text reminder for this visit
+Bot: Yes, I would like a text reminder for this visit, please.
 Agent: you'll get a text reminder soon at your number ending in 4904 is there anything else I can help you with today
-Bot: No, that will be all. Thank you for your help! BYE.
+Bot: No, that's everything for now. Thank you for your help! BYE.
