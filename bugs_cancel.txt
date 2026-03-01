@@ -1,0 +1,19 @@
+AI Bugs Found
+1. **Bug Description**: The agent incorrectly confirms the cancellation of an appointment with Dr. "Dudy" Howser instead of using the correct name "Doogie" Howser as provided by the patient.
+   - **Severity**: Medium
+   - **Transcript File**: transcript_cancel.txt
+   - **Quote from Transcript**: "your new patient appointment with Dr dudy Howser on Tuesday March 10th at 1:30 p.m. has been canceled..."
+   - **Problem Description**: This misidentification of the doctor's name could lead to confusion for the patient, especially if they have multiple appointments with different doctors or if they need to follow up regarding care. The agent should have confirmed the cancellation using the correct name "Doogie" Howser as previously stated by the patient.
+
+Bugs I Found 
+Bug Description: The agent ignores the patient's first appointment selection and continues listing more appointments instead of proceeding with the cancellation.
+Severity: Low 
+Transcript File: transcript_cancel.txt
+Quote from Transcript: "I would like to cancel the new patient 
+appointment with a breaker on Monday, March 16th at 9:45 a.m." 
+Patient clearly selects an appointment, but the agent responds by listing additional appointments instead of confirming.
+Problem Description: The patient had already chosen which appointment to cancel, 
+but the agent ignored this and kept listing appointments, 
+forcing the patient to select again and ultimately canceling a different 
+appointment than originally requested.
+* This may be a call connectivity issue 

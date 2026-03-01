@@ -1,0 +1,15 @@
+AI Bugs Found
+1. **Description of the bug:** The agent incorrectly states that live transfer isn't available due to being in demo mode. It should have been able to acknowledge the patient's need for urgent assistance and connect them to a support team or escalation process, even in a demo scenario.
+   - **Severity:** High
+   - **Transcript file:** transcript_angry.txt
+   - **Exact quote:** "live transfer isn't available right now since this is a demo clinic in a real situation I would connect you to a manager or Live support..."
+   - **Why it is a problem:** The patient clearly indicated that they needed immediate help due to an urgent situation. By falling back on demo excuses and not providing an alternative for support, the agent is failing to meet the patient's critical need for assistance and potentially affecting their well-being and satisfaction with the clinic.
+
+2. **Description of the bug:** The agent mentions that it can document the request for the clinic team to follow up "as soon as possible" but does not assure the patient of a timeline for this follow-up.
+   - **Severity:** High
+   - **Transcript file:** transcript_angry.txt
+   - **Exact quote:** "I can make sure your concerns are documented for Urgent follow-up by the clinic support team..."
+   - **Why it is a problem:** The patient's situation is urgent and requires immediate attention. By not specifying a concrete follow-up time or assurance that their needs will be prioritized, the agent fails to offer a reasonable expectation for resolution, which could lead to further frustration and dissatisfaction. The agent should have provided a specific time frame for follow-up or made an effort to ensure the urgency of the request was clearly communicated to the support team.
+
+Bugs I Found 
+No bugs 

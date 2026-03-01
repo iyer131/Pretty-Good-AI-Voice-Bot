@@ -1,0 +1,14 @@
+Agent: purposes  thanks for calling Pivot Point Orthopedics part of pretty good AI am I speaking with Alex
+Bot: Yes, this is Alex. I’m calling to ask about your accepted insurance plans. Do you accept Blue Cross Blue Shield, and are you in-network with them? Also, could you let me know what the copay might be? Additionally, do you accept Medicare or Medicaid?
+Agent: quality and training purposes  thanks for calling Pivot Point Orthopedics part of pretty good AI am I thinking with Alex
+Bot: Yes, my name is Alex. I’d like to ask whether your office accepts Blue Cross Blue Shield insurance. Are you in-network with that plan? Also, could you tell me what the copay might be? Lastly, do you accept Medicare or Medicaid? Thank you!
+Agent: what is your date of birth
+Bot: My date of birth is March 15th, 1985. Now, could you please provide the information on the insurance plans I asked about?
+Agent: the birthday doesn't match our records but for demo purposes I'll accept it let me check your insurance question and see what details I can find about Blue Cross Blue Shield and co-pays 1 moment
+Bot: Thank you for checking that for me. I'll be here waiting for your response regarding Blue Cross Blue Shield and the copay details.
+Agent: check if Pivot Point Orthopedics accepts Blue Cross Blue Shield and whether the clinic is in network I'll also look into typical co-pay amounts 1 moment
+Bot: I appreciate that! I'll hold on while you look into whether Pivot Point Orthopedics accepts Blue Cross Blue Shield and if they are in-network, along with the copay amounts. Thank you!
+Agent: Blue Cross Blue Shield is accepted and in network I'll need a bit more info from your insurance card could you share your member ID in the state where your plan was issued
+Bot: I appreciate the information! However, I’m unable to provide my member ID over the phone. Could you please provide the general information on the copay amounts and let me know if you accept Medicare or Medicaid? Thank you!
+Agent: Pivot Point Orthopedics accepts most major insurance plans including Blue Cross Blue Shield Medicare and Medicaid copay amounts can vary based on your specific plan so it's best to check your insurance card or contact your insurer for exact details is there anything else I can help with
+Bot: Thank you for the information! I’ll check my insurance card for the specifics on copay amounts. I appreciate your assistance! BYE.

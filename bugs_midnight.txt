@@ -1,0 +1,30 @@
+AI Bugs Found
+1. **Bug Description**: The agent fails to properly address a patient's request for an appointment at midnight or 3 AM, without considering the potential urgency of the situation or offering alternative solutions within those time frames. 
+
+   **Severity**: High 
+
+   **Transcript File**: transcript_midnight.txt 
+
+   **Exact Quote**: "unfortunately our providers do not offer appointments at midnight or in the early morning hours all appointments are scheduled during regular daytime hours"
+
+   **Why it's a problem**: The agent dismisses the patient's request without exploring all options, including emergency services, which may lead to a negative impact on the patient's healthcare outcome if they indeed require urgent care during those hours. The agent should have explored alternative care options like telemedicine or provided information about local urgent care facilities available during those hours, rather than assuming no care could be provided at all. 
+
+2. **Bug Description**: The agent incorrectly states that there are no openings available during the requested time, which does not account for the possibility of urgent visits and provides a misleading conclusion about provider availability.
+
+   **Severity**: High 
+
+   **Transcript File**: transcript_midnight.txt 
+
+   **Exact Quote**: "but there are no openings available during those times would you like to try for a different time or another day"
+
+   **Why it's a problem**: By stating there are no openings available at those times and not offering any further assistance or alternatives, the agent may contribute to the patient's frustration and deter them from seeking necessary medical care. The agent should have informed the patient that urgent care services might be available during late night or early morning hours, rather than outright denying availability and missing the opportunity to provide guidance on immediate care.
+
+Bugs I Found 
+Bug Description: The agent checks for availability at midnight/3am instead of 
+immediately informing the patient the clinic is closed at those hours.
+Severity: Medium
+Transcript File: transcript_midnight.txt
+Quote from Transcript: "let me check if there are any appointments available at 
+midnight or between 2 and 3:00 a.m. 1 moment"
+Problem Description: The agent should know the clinic operates during regular 
+business hours and doesn't offer midnight or early morning appointments. 

@@ -1,0 +1,10 @@
+AI Bugs Found
+1. **Description of the bug:** The agent mistakenly informs the patient that weekend appointments are not available at Pivot Point Orthopedics, which is not accurate if the clinic is meant to accommodate such requests.
+   - **Severity:** High
+   - **Transcript file:** transcript_weekend.txt
+   - **Exact quote from the transcript:** "Pivot Point Orthopedics is open Monday through Friday and we're closed on weekends would you like to look at weekday appointment options instead."
+   - **Why it is a problem and what the agent should have done instead:** This is a significant issue as it directly affects the patient's ability to seek care. If weekend appointments are indeed an option (even for emergency or exceptional circumstances), the agent should have either provided alternative solutions or escalated the request rather than denying it outright. The agent could have confirmed if there are any openings despite the standard policy or at least suggested potential alternatives such as contacting a different clinic with weekend availability.
+
+
+Bugs I Found
+No bugs 

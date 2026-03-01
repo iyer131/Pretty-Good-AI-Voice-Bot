@@ -1,0 +1,21 @@
+The bot is built in Python using Flask as the webhook server. 
+When a call is triggered through the /call endpoint, 
+SignalWire places a call to the target number (the Pretty Good AI Agent). 
+SignalWire was chosen for its low latency and built-in speech-to-text design, which
+keep response times natural and conversational. 
+Each scenario maps to a Flask route that SignalWire hits as a webhook 
+on each turn of the conversation. 
+Speech recognition is handled by SignalWire's Gather() function, 
+which listens for the agent's response. The transcribed text is passed to OpenAI's GPT-4o mini, 
+which generates the patient's next response. 
+GPT-4o mini was chosen for its low latency, low cost, and ability to 
+maintain a consistent persona across a multi-turn conversation.
+The full conversation history is maintained in memory and passed to 
+the model on each turn so responses stay contextually coherent. 
+When the bot detects a natural conversation ending, it hangs up. 
+
+An automated bug detection function is in place that feeds call transcripts to 
+an OpenAI for analysis. These findings are supplementary and should be 
+interpreted with discretion, as they may reflect nitpicky observations 
+rather than quality issues. 
+Bugs I actually found are written in a "Bugs I Found" section. 

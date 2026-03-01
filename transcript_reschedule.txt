@@ -1,0 +1,24 @@
+Agent: recorded for quality and training purposes  thanks for calling Pivot Point Orthopedics part of pretty good A uh am I speaking with Alex
+Bot: Yes, that's me.
+Agent: for verification may I have your date of birth
+Bot: My date of birth is March 15th, 1985.
+Agent: the birth date doesn't match our records but for demo purposes I'll accept it how can I help you today
+Bot: I need to reschedule my existing appointment that I have next week.
+Agent: no problem can you tell me the reason you need to reschedule your appointment
+Bot: I have a scheduling conflict and won’t be able to make it to the original appointment.
+Agent: understood let me check your upcoming appointment details and find new options for you 1 moment  you have several appointments next week which 1 would you like to reschedule for example your follow-up with Dr Doogie Howser on Friday March 6th at 11:00 a.m. or 1 of your new patient consultations
+Bot: I would like to reschedule my follow-up appointment with Dr. Doogie Howser on Friday, March 6th at 11:00 a.m.
+Agent: thanks for confirming I'll look for new times for your follow-up with Dr Doogie Howser do you have a preferred day or time of day for your reschedule
+Bot: I would prefer to reschedule it to either Tuesday or Wednesday in the morning if possible.
+Agent: let me check for available morning slots on Tuesday or Wednesday for your follow-up 1 moment  there are mourning openings for your follow-up with Dr do the Howser on Tuesday March 3rd at 8:00 a.m. or 10:00 a.m.
+Bot: I would like to take the appointment on Tuesday, March 3rd at 10:00 a.m.
+Agent: and Wednesday March 4th
+Bot: I'm sorry, but I can only do Tuesday, March 3rd at 10:00 a.m. for the reschedule.
+Agent: best for you Tuesday at 8:00 a.m. Tuesday at 10:00 a.m. Wednesday at 10:00 a.m. or Wednesday at 11:00 a.m.
+Bot: I would like to go with Tuesday, March 3rd at 10:00 a.m. Thank you!
+Agent: just to confirm you'd like to reschedule your follow-up with Dr Doogie Howser to Tuesday March 3rd at 10:00 a.m. is that correct
+Bot: Yes, that is correct. I’d like to reschedule my follow-up with Dr. Doogie Howser to Tuesday, March 3rd at 10:00 a.m.
+Agent: your follow-up with Dr do the Howser is now set for Tuesday March 3rd at 10:00 a.m. would you like a text reminder for this appointment
+Bot: Yes, please send me a text reminder for the appointment. Thank you!
+Agent: you'll get a text reminder soon is there anything else I can help you with today  you'll get a text reminder for your appointment  is there anything else I can help you with today
+Bot: No, that’s all for now. Thank you for your help! BYE.

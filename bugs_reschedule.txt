@@ -1,0 +1,16 @@
+AI Bugs Found
+1. **Description of the bug**: The agent incorrectly schedules the follow-up appointment for March 3rd, which is in the past, instead of March 6th, which is the correct upcoming date for the original appointment.
+   - **Severity**: High
+   - **Transcript file**: transcript_reschedule.txt
+   - **Exact quote from the transcript**: "Agent: your follow-up with Dr do the Howser is now set for Tuesday March 3rd at 10:00 a.m."
+   - **Why it is a problem**: Scheduling an appointment in the past does not make sense and would create confusion for the patient, who would not be able to attend a past appointment. The agent should have correctly referred to the existing appointment date of March 6th and scheduled the reschedule accordingly.
+
+Bugs I Found
+Bug Description: The agent continues listing more time slots after the patient has 
+already selected an appointment time.
+Severity: Low 
+Transcript File: transcript_reschedule.txt
+Quote from Transcript: Patient says "I would like to take the appointment on Tuesday, 
+March 3rd at 10:00 a.m." 
+but the agent responds by listing additional options including Wednesday slots.
+* This may be a call connectivity issue 

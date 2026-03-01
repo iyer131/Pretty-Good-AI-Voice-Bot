@@ -1,0 +1,25 @@
+AI Bugs Found
+1. **Bug Description**: The agent incorrectly identified the follow-up appointment date. It stated that the appointment is on "Thursday March 5th," when in fact March 5, 2026, is a Wednesday. 
+   - **Severity**: High
+   - **Transcript File**: transcript_wrong_number.txt
+   - **Quote**: "you have a follow-up visit scheduled for Thursday March 5th at 8:00 a.m. with Dr dudy Howser would you like to reschedule this appointment"
+   - **Problem Explanation**: Providing incorrect appointment details can lead to significant confusion for the patient and can potentially result in missed or incorrectly scheduled appointments. The agent should have correctly identified the appointment date as Wednesday, March 5th, 2026. 
+
+2. **Bug Description**: The agent confirmed an appointment for March 6th at 11:00 a.m. without properly assessing or verifying that March 6th is a valid date for follow-up appointments. Additionally, it was confirmed as "the next opening" without checking if the time was suitable.
+   - **Severity**: High
+   - **Transcript File**: transcript_wrong_number.txt
+   - **Quote**: "we have follow-up appointments available on Friday March 6th the next opening is at 11:00 a.m."
+   - **Problem Explanation**: Confirming appointments based on possibly invalid assumptions could lead to scheduling conflicts or potential issues in patient care. The agent should have verified the date of appointment availability against its own records rather than making an assumption about availability. 
+
+Bugs I Found 
+Bug Description: The agent ignores the patient's question about clinic services and 
+continues with the rescheduling flow without addressing it.
+Severity: Low
+Transcript File: transcript_wrong_number.txt
+Quote from Transcript: "While you check, could you also let me know 
+what type of services you offer? I'm a bit curious if you do anything like 
+physical therapy or just orthopedic care."
+Problem Description: The patient asked a direct question about clinic services 
+but the agent skipped it entirely and moved on with rescheduling. The agent should have briefly 
+answered the question at an appropriate point in the conversation before continuing.
+* This may be a call connectivity issue 

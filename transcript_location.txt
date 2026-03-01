@@ -1,0 +1,6 @@
+Agent: for quality and training purposes  thanks for calling Pivot Point Orthopedics part of pretty good AI am I speaking with Alex
+Bot: Yes, my name is Alex. I'm calling to ask about your office's location and directions. Can you provide me with the office address?
+Agent: our office is called Pivot Point Orthopedics the address is 220 Athens Way Nashville would you like any other information about the clinic
+Bot: Yes, could you tell me if there are any nearby landmarks that can help me find your office? Also, is there parking available, and what are my options for public transit?
+Agent: I'm not able to provide details about landmarks parking or public transit options I can only share the clinic name and address if you need more help I recommend checking online Maps or calling the clinic directly is there anything else I can help you with
+Bot: Thank you for the information. I'll check online for the landmarks, parking, and transit options. That will be all for now. BYE.

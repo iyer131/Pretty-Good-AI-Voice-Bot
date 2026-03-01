@@ -1,0 +1,22 @@
+AI Bugs Found
+1. **Bug Description**: The agent mispronounces the doctor's name and repeats an incorrect name ("Dr dudy Howser") instead of the correct "Dr Doogie Howser."
+   - **Severity**: Medium
+   - **Transcript File**: transcript_schedule.txt
+   - **Quote**: "your appointment is set for Thursday March 12th at 3:00 p.m. with Dr dudy Howser"
+   - **Problem**: Incorrectly stating the doctor's name could lead to confusion for the patient when arriving for the appointment, potentially impacting their experience negatively. The agent should have ensured to confirm the correct doctor's name as provided earlier in the conversation.
+
+2. **Bug Description**: The agent provides an appointment date of March 10th, which is incorrect as it does not fall in the future relative to the current date of February 28, 2026.
+   - **Severity**: High
+   - **Transcript File**: transcript_schedule.txt
+   - **Quote**: "the next available afternoon appointment is Tuesday March 10th at 1:30 p.m."
+   - **Problem**: Scheduling an appointment on a date that does not exist in the future relative to the current date can mislead the patient regarding availability. The agent should have provided appointment slots that are valid future dates.
+
+3. **Bug Description**: The agent confirms an appointment with an invalid name while reiterating the details ("Dr dudy Howser").
+   - **Severity**: High
+   - **Transcript File**: transcript_schedule.txt
+   - **Quote**: "just to confirm you'd like to book a new patient consultation on Thursday March 12th at 3 p.m. with Dr dudy Howser for your back pain is that correct"
+   - **Problem**: Misidentifying the doctor could lead to problems with patient identification and care continuity, potentially leading to a missed appointment or miscommunication regarding treatment. The agent should have reiterated the correct name as registered in their system to ensure clarity. 
+
+Bugs I Found 
+No bugs 
+

@@ -1,0 +1,15 @@
+AI Bugs Found
+1. **Description of the bug**: The agent states that Pivot Point Orthopedics accepts "most major insurance plans including Blue Cross Blue Shield, Medicare, and Medicaid" without confirming that these specific plans are in-network or providing clear copay information, which was requested by the patient.
+   - **Severity**: High
+   - **Transcript file**: transcript_insurance.txt
+   - **Exact quote from the transcript**: "Pivot Point Orthopedics accepts most major insurance plans including Blue Cross Blue Shield Medicare and Medicaid copay amounts can vary based on your specific plan..."
+   - **Why it is a problem**: The agent does not provide specific and crucial information regarding whether the insurance plans mentioned are in-network or give any copay details. This ambiguity could lead to confusion for the patient, potentially affecting their access to healthcare and financial preparation.
+
+2. **Description of the bug**: The agent prematurely accepted the birthday provided by the bot for "demo purposes" despite it not matching their records without seeking to confirm the patient's actual birthday or the implications of this mismatch.
+   - **Severity**: High
+   - **Transcript file**: transcript_insurance.txt
+   - **Exact quote from the transcript**: "the birthday doesn't match our records but for demo purposes I'll accept it..."
+   - **Why it is a problem**: By accepting potentially incorrect patient information without verification, the agent risks compromising patient data accuracy and may affect future interactions related to appointments, insurance, or medical records. Proper verification of critical patient information is required to ensure continuity of care and safety in medical settings.
+
+Bugs I Found
+No bugs 

@@ -1,0 +1,20 @@
+Agent: for quality and training purposes  thanks for calling Pivot Point Orthopedics part of pretty good AI am I speaking with Alex
+Bot: Yes, this is Alex.
+Agent: for verification may I have your date of birth
+Bot: My date of birth is March 15th, 1985.
+Agent: the birth date doesn't match our records but for demo purposes I'll accept it  how can I help you today
+Bot: I would like to cancel my upcoming appointment.
+Agent: you have several upcoming appointments  could you tell me which 1 you want to cancel for example is it your new patient appointment or a follow-up if you know the date and time that helps too
+Bot: Could you please list my upcoming appointments? Then, I can let you know which one I want to cancel.
+Agent: you have these upcoming appointments at Nashville 220 Athens Way new patient appointment with a breaker on Monday March 16th at 9:45 a.m. new patient appointment with a breaker
+Bot: I would like to cancel the new patient appointment with a breaker on Monday, March 16th at 9:45 a.m.
+Agent: at 10:30 a.m. follow up with Dr dudy Howser on Thursday March 10th at 8:00 a.m. new patient appointments with Dr dudy Hower on Tuesday March 10th at 12:45 p.m. 3 p.m. 3:45 p.m. 4:30 p.m. and 5:15 p.m. new patient appointments with Dr dubia Howser on Thursday March 10th at 12:00 at 10:30 a.m. 11:15 a.m. and 12:00 p.m. new patient appointment with Dr Doogie Howser on Tuesday March 10th at 1:30 p.m. which 1 would you like to cancel
+Bot: It seems the appointment times you provided are in the past. Could you please list my current upcoming appointments again so I can choose one to cancel?
+Agent: let me clarify today is Friday February 27th 2026  all the appointments I listed are scheduled for March 2026 so they are upcoming would you like to cancel 1 of those March appointments if so which date and time
+Bot: I apologize for the misunderstanding. I'd like to cancel the new patient appointment with Dr. Doogie Howser on Tuesday, March 10th at 1:30 p.m.
+Agent: no problem can you share the reason for canceling this appointment for example illness work conflict Transportation or another reason
+Bot: I would prefer not to share the reason for canceling the appointment.
+Agent: that's fine just to confirm you want to cancel your new patient appointment with Dr Doogie Howser on Tuesday March 10th at 1:30 p.m. is that correct
+Bot: Yes, that's correct. I want to cancel my new patient appointment with Dr. Doogie Howser on Tuesday, March 10th at 1:30 p.m.
+Agent: your new patient appointment with Dr dudy Howser on Tuesday March 10th at 1:30 p.m. has been canceled if you need to reschedule or have any other requests just let me know
+Bot: Thank you for confirming the cancellation. I don't need to reschedule, so that's all for now. BYE.
